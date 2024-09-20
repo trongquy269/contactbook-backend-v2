@@ -1,0 +1,23 @@
+{
+	"name": "contactbook-backend",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/trongquy269/contactbook-backend-v1.git"
+	},
+	"author": "Quy Nguyen",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/trongquy269/contactbook-backend-v1/issues"
+	},
+	"homepage": "https://github.com/trongquy269/contactbook-backend-v1#readme",
+	"description": "",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.21.0"
+	}
+}
